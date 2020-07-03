@@ -1,4 +1,4 @@
-# Beyond-the-magnetic-field-of-a-finite-wire
+# Beyond the magnetic field of a finite wire
 
 Code to compute the magnetic field of different geometries using the finite-wire approach.
 The notebook uses a hybrid methodology to evaluated the magnitude of the magnetic field of different shapes (designed by the user/student).
